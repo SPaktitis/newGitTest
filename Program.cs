@@ -9,6 +9,12 @@ namespace MyAwsomeProgram
             Console.WriteLine("Gamieste");
 
             Console.WriteLine("Gamw to spiti mou");
+            
+            Restart();
+        }
+
+        static void Restart(){
+            Console.WriteLine("poutana");
         }
     }
 }
