@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/spyros/.dotnet/store/|arch|/|tfm|",
+      "/Users/spyros/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+/Users/spyros/Desktop/MyAwsomeProgram/bin/Debug/net5.0/MyAwsomeProgram.deps.json
+/Users/spyros/Desktop/MyAwsomeProgram/bin/Debug/net5.0/MyAwsomeProgram.runtimeconfig.json
+/Users/spyros/Desktop/MyAwsomeProgram/bin/Debug/net5.0/MyAwsomeProgram.runtimeconfig.dev.json
+/Users/spyros/Desktop/MyAwsomeProgram/bin/Debug/net5.0/MyAwsomeProgram.dll
+/Users/spyros/Desktop/MyAwsomeProgram/bin/Debug/net5.0/ref/MyAwsomeProgram.dll
+/Users/spyros/Desktop/MyAwsomeProgram/bin/Debug/net5.0/MyAwsomeProgram.pdb
+/Users/spyros/Desktop/MyAwsomeProgram/obj/Debug/net5.0/MyAwsomeProgram.csprojAssemblyReference.cache
+/Users/spyros/Desktop/MyAwsomeProgram/obj/Debug/net5.0/MyAwsomeProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spyros/Desktop/MyAwsomeProgram/obj/Debug/net5.0/MyAwsomeProgram.AssemblyInfoInputs.cache
+/Users/spyros/Desktop/MyAwsomeProgram/obj/Debug/net5.0/MyAwsomeProgram.AssemblyInfo.cs
+/Users/spyros/Desktop/MyAwsomeProgram/obj/Debug/net5.0/MyAwsomeProgram.csproj.CoreCompileInputs.cache
+/Users/spyros/Desktop/MyAwsomeProgram/obj/Debug/net5.0/MyAwsomeProgram.dll
+/Users/spyros/Desktop/MyAwsomeProgram/obj/Debug/net5.0/ref/MyAwsomeProgram.dll
+/Users/spyros/Desktop/MyAwsomeProgram/obj/Debug/net5.0/MyAwsomeProgram.pdb
+/Users/spyros/Desktop/MyAwsomeProgram/obj/Debug/net5.0/MyAwsomeProgram.genruntimeconfig.cache
