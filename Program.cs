@@ -7,8 +7,6 @@ namespace MyAwsomeProgram
         static void Main(string[] args)
         {
             Console.WriteLine("Gamieste");
-
-            Console.WriteLine("Gamw to spiti mou");
         }
     }
 }
